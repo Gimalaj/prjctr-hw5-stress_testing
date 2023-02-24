@@ -32,9 +32,6 @@ services:
     environment:
             MYSQL_ROOT_USER: root
             MYSQL_ROOT_PASSWORD: qazSedcS123
-            MYSQL_DATABASE: prjctr
-            MYSQL_USER: prjctr
-            MYSQL_PASSWORD: qwerty123
     ports:
       - 3306:3306
 
